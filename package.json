@@ -1,0 +1,18 @@
+{
+  "name": "dapptokensale",
+  "version": "1.0.0",
+  "description": "Dapp Token Sale ICO",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "Vishesh Javangula",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {}
+}
